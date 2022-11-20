@@ -1,3 +1,5 @@
-console.log('Test')
+import { colors } from '@monorepo/tokens'
 
-export {}
+export function App() {
+  return <h1 style={{ color: colors.ignite300 }}>Hello World</h1>
+}
