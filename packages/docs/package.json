@@ -26,8 +26,10 @@
   },
   "dependencies": {
     "@monorepo/eslint-config": "*",
+    "@monorepo/ts-config": "*",
     "@monorepo/react": "^1.0.0",
     "@monorepo/tokens": "^1.0.0",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
