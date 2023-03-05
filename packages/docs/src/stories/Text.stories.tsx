@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Text, TextProps } from '@monorepo/react'
+import { Text, TextProps } from '@joao-design-system/react'
 
 export default {
   title: 'Typography/Text',

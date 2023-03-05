@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@monorepo/react'
+import { Box, Text, TextArea, TextAreaProps } from '@joao-design-system/react'
 
 export default {
   title: 'Form/Text Area',

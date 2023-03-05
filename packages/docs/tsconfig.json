@@ -1,4 +1,4 @@
 {
-  "extends": "@monorepo/ts-config/react.json",
+  "extends": "@joao-design-system/ts-config/react.json",
   "include": ["src"]
 }

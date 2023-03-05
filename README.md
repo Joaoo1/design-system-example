@@ -1,1 +1,1 @@
-# Monorepo Example
+# joao-design-system Example

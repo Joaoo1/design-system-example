@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@monorepo/tokens'
+} from '@joao-design-system/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

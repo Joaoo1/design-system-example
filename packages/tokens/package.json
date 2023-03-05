@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo/tokens",
+  "name": "@joao-design-system/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@monorepo/ts-config": "*",
-    "@monorepo/eslint-config": "*",
+    "@joao-design-system/ts-config": "*",
+    "@joao-design-system/eslint-config": "*",
     "tsup": "^6.4.0",
     "typescript": "4.8.4"
   }

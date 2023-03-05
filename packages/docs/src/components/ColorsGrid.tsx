@@ -1,4 +1,4 @@
-import { colors } from '@monorepo/tokens'
+import { colors } from '@joao-design-system/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {
