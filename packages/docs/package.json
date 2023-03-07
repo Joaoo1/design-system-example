@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@joao-design-system/eslint-config": "*",
-    "@joao-design-system/react": "^1.0.0",
+    "@joao-design-system/react": "^1.0.1",
     "@joao-design-system/tokens": "^1.0.0",
     "@joao-design-system/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
