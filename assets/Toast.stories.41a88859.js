@@ -1,0 +1,2 @@
+import{d as t}from"./index.5522aecc.js";import"./index.7276072d.js";import"./iframe.91bd35fd.js";import"./index.9fd5ab6a.js";import"./jsx-runtime.37487f60.js";const i={title:"Data display/Toast",component:t,args:{title:"Agendamento realizado",text:"Quarta-feira, 23 de Outubro \xE0s 16h"}},m={},p=["Primary"];export{m as Primary,p as __namedExportsOrder,i as default};
+//# sourceMappingURL=Toast.stories.41a88859.js.map
